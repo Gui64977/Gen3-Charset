@@ -1,6 +1,6 @@
 # Gen3-Charset
 An .tbl and Charset for Gen3 Pokémon games
 
-Now there will only be non-JP writable characters in future will be added more characters
+Now only have non-JP characters 
 
 This .tbl file was made for use in mGBA memory viewer but you can use it on other programs
