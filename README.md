@@ -7,7 +7,7 @@ These .tbl files were made for use in mGBA memory viewer but you can use it on o
 
 Types of charsets:
 
-• CRLF charsets uses \r\n for line break
+• CRLF charsets uses \r\n for line break(recommended type of charset)
 
 • LF charsets uses \n for line break(if CRLF didn't work for you use this type of charset)
 
