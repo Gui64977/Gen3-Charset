@@ -12,4 +12,4 @@ Types of charsets:
 • LF charsets uses \n for line break(if CRLF didn't work for you use this type of charset)
 
 
-Missing characters can be unused in the game or unwritable
+Missing characters are unused in the game or unwritable
