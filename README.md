@@ -1,5 +1,5 @@
 # Gen3-Charset
-An .tbl and Charset for Pokemon Gen3
+An .tbl and Charset for Gen3 Pokémon games
 
 Now there will only be non-JP writable characters in future will be added more characters
 
